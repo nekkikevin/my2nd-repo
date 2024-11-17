@@ -1,0 +1,9 @@
+/* Main Content */
+main {
+  padding: 1rem;
+}
+
+main h2 {
+  color: #35495e;
+  font-size: 1.5rem;
+}
